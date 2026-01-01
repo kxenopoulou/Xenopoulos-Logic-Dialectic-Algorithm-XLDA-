@@ -2,7 +2,7 @@
 Xenopoulos Logic-Dialectic Algorithm (XLDA): An algorithm inspired by Epameinondas Xenopoulos' logic-dialectic framework, designed to model contradictions and achieve synthesis in quantum computing and ethical AI.
 # **From Static Logic to Dynamic Synthesis: Xenopoulos' Fourth Logical Structure**
 
-[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14844175.svg)](https://doi.org/10.5281/zenodo.14844175)
+DOI: https://zenodo.org/records/15753716
 
 ---
 
